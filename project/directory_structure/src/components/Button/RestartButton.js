@@ -1,0 +1,1 @@
+Component for restart button functionality.
