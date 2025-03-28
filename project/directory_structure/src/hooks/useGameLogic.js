@@ -1,0 +1,1 @@
+Custom hook for managing game logic, including state, win detection, and turn management.
