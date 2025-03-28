@@ -1,0 +1,1 @@
+Configuration file if using Tailwind CSS.
