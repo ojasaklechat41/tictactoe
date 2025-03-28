@@ -1,0 +1,1 @@
+Individual square component on the board.
