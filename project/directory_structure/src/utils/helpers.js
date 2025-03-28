@@ -1,0 +1,1 @@
+Utility functions for win detection and draw detection.
